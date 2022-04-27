@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quramy)](https://github.com/anuraghazra/github-readme-stats)
-
+<div><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=quramy&show_icons=true&theme=gotham" /><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quramy&theme=gotham&layout=compact" /></div>
 <!--
 **Quramy/Quramy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
